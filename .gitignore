@@ -1,0 +1,31 @@
+neuralfit_data/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.env
+
+# Python virtual environments
+venv/
+.venv/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Node dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# IDE
+.vscode/
